@@ -13,3 +13,6 @@
 [submodule "help/latest"]
 	path = help/latest
 	url = https://github.com/mu-editor/help-pages.git
+[submodule "mu-editor.github.io"]
+	path = mu-editor.github.io
+	url = https://github.com/mu-editor/mu-editor.github.io.git
