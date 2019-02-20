@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: zh
 title: Available help.
+i18n: zh
 ---
 
 # Available help
