@@ -20,8 +20,8 @@ i18n: zh
   </div>
   <div class="media-body">
     <h4 class="media-heading">Windows 安装包</h4>
-    <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win32.exe" class="btn btn-primary" role="button">32位</a>
-    <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_win64.exe" class="btn btn-primary" role="button">64位</a>
+    <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.2/mu-editor_1.0.2_win32.exe" class="btn btn-primary" role="button">32位</a>
+    <a href="https://github.com/mu-editor/mu/releases/download/1.0.2/mu-editor_1.0.2_win64.exe" class="btn btn-primary" role="button">64位</a>
     <a href="/en/howto/install_windows" class="btn btn-default" role="button">安装指南</a></p>
   </div>
 </div>
@@ -34,7 +34,7 @@ i18n: zh
   </div>
   <div class="media-body">
     <h4 class="media-heading">macOS 安装包</h4>
-    <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg" class="btn btn-primary" role="button">下载</a>
+    <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.2/mu-editor_1.0.2_osx.dmg" class="btn btn-primary" role="button">下载</a>
     <a href="/en/howto/install_macos" class="btn btn-default" role="button">安装指南</a></p>
   </div>
 </div>
@@ -47,9 +47,9 @@ i18n: zh
   </div>
   <div class="media-body">
     <h4 class="media-heading">PortaMu - 从U盘运行Mu</h4>
-    <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.1/portamu_1.0.1_win32.zip" class="btn btn-primary" role="button">Windows 32位</a>
-    <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/portamu_1.0.1_win64.zip" class="btn btn-primary" role="button">Windows 64位</a>
-    <a href="https://github.com/mu-editor/mu/releases/download/1.0.1/mu-editor_1.0.1_osx.dmg" class="btn btn-primary" role="button">macOS</a>
+    <p><a href="https://github.com/AllAboutCode/PortaMu/releases/download/v1.0.2/portamu_1.0.2_win32.zip" class="btn btn-primary" role="button">Windows 32位</a>
+    <a href="https://github.com/AllAboutCode/PortaMu/releases/download/v1.0.2/portamu_1.0.2_win64.zip" class="btn btn-primary" role="button">Windows 64位</a>
+    <a href="https://github.com/mu-editor/mu/releases/download/1.0.2/portamu_1.0.2_osx.zip" class="btn btn-primary" role="button">macOS</a>
     <a href="/en/howto/use_portamu" class="btn btn-default" role="button">安装指南</a></p>
   </div>
 </div>
